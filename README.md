@@ -1,7 +1,7 @@
 react-tutorial-with-backend
 ===========================
 
-This is a version of the [React tutorial](http://facebook.github.io/react/docs/tutorial.html) with a small backend written in Ruby.
+This is a version of the [React tutorial](http://facebook.github.io/react/docs/tutorial.html) with a small backend written in Ruby. I wrote it to learn React. It's not super interesting, but it does the job.
 
 ## How to use it
 
@@ -13,5 +13,6 @@ $ ruby app.rb
 
 ## License
 
-The code in index.html is part of the React tutorial and belongs to the React project.
-The code in app.rb is in the public domain.
+The code in `index.html` is part of the React tutorial and belongs to the React project.
+
+The code in `app.rb` is in the public domain.
